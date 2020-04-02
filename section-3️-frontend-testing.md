@@ -545,4 +545,4 @@ describe("visual validation", () => {
 
 <br/><br/>
 
-#### [`Section 4: Measuring Tests Effectiveness`](/section-4️-measuring-test-effectiveness)
+#### [`Section 4: Measuring Tests Effectiveness`](./section-4️-measuring-test-effectiveness)

@@ -225,4 +225,4 @@ it("When updating site name, get successful confirmation", async () => {
 
 <br/><br/>
 
-#### [`Section 3: Frontend`](/section-3️-frontend-testing)
+#### [`Section 3: Frontend`](./section-3️-frontend-testing)
